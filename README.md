@@ -1,5 +1,6 @@
-## Update
+# Update
 
-# Update v1.0-dev 20.6.247.54:
+```Update v1.0-dev 20.6.247.54:```
+<br>
 ```- Various bug fixes```
 
