@@ -1,8 +1,12 @@
 # Update v1.0-dev
 
-<h1>Test</h1>
+<style>
+  p {
+    color: red
+  }
+</style>
 
-```Update v1.0-dev 20.6.247.54:```
+<p>Update v1.0-dev 20.6.247.54</p>
 <br>
 ```- Various bug fixes```
 
