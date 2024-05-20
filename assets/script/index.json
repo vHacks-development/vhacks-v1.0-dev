@@ -1,1 +1,8 @@
-
+{
+  "main": {
+    "file": [
+      "core.pyc",
+      "script.pyc"
+    ]
+  }
+}
